@@ -109,6 +109,7 @@ One Vs. Rest Classifier was chosen because of the multi class scenario. To be ab
 
 
 <h2 align = "center">Bokeh Plots</h2>
+<p align = "center">These plots need to be ran locally to see/interact with them</p>
 <ul style="list-style:none;">
   <li><img src="https://i.imgur.com/5ZhfYAX.gif" alt="Bokeh Plot 1"></br><p align = "center">This plot visualizes trends above/below the census demographic population proportions for the selected race</p></li>
   <li><img alt="Bokeh Plot 2" src="https://i.imgur.com/m9kncKn.png"><p align = "center">This plot displays a comparison between a selected race of  PD officers vs 'non' selected race PD officers and the distrubtion of subject stops for the selected month</p> </li>
