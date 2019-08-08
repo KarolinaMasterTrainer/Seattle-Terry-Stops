@@ -104,10 +104,6 @@ One Vs. Rest Classifier was chosen because of the multi class scenario. To be ab
         <li><a href="https://github.com/bryan-md/Seattle-Terry-Stops/blob/master/notebooks/4%20-%2004%20-%20ML%20Frisk.ipynb">4 - 04 - ML Frisk</a>(binary model)</li>
       </ul>
  <li><a href="https://github.com/bryan-md/Seattle-Terry-Stops/blob/master/notebooks/05%20-%20Subject%20Race%20Prediction.ipynb">5 - Subject Race Prediction</a>The second model was placed in a function for the user to input a few parameters and display prediction probabilities for the race of the subject that was stopped.</li>
-      <ul>
-        <code> predict_subject_race (457, 40, 'E2' )
-        </code>
-     </ul>
 </ul>
 </p>
 
@@ -121,10 +117,11 @@ One Vs. Rest Classifier was chosen because of the multi class scenario. To be ab
 
 <h2 align = "center">Subject Race Prediction</h2>
 <p align = "center">This program takes three paramaters. The Officer ID, the initial call type, and the 'beat' and returns a dataframe with the probability predictions for the subjects race. <a href="">A list of all parameters can be found in the parameter text document</a>. </br>
-<ul style="list-style: none;">
-  <li><b>Officer ID:</b>the unique id for the officers </li>
-  <li><b>Initial Call Type:</b> the type of call that initiated the stop (all stops were limited to officer initiated stops). </li>
-  <li><b>Beat</b> Where the stop occured.</li>
-  <li></li>
-  <li></li>
-</ul</p>
+  <ul style="list-style: none;">
+    <li><b>Officer ID:</b>the unique id for the officers </li>
+    <li><b>Initial Call Type:</b> the type of call that initiated the stop (all stops were limited to officer initiated stops). </li>
+    <li><b>Beat</b> Where the stop occured.</li>
+    <li><code align = "center">predict_subject_race (457, 40, 'E2' )</code></li>
+    <li><p align = "center">Returns a Pandas DataFrame of race probability predictions</br><img align="center" src="https://i.imgur.com/qgQJZAQ.png" alt="Bokeh Plot 1"></li>
+  </ul>
+</p>
