@@ -122,6 +122,6 @@ One Vs. Rest Classifier was chosen because of the multi class scenario. To be ab
     <li><b>Initial Call Type:</b> the type of call that initiated the stop (all stops were limited to officer initiated stops). </li>
     <li><b>Beat</b> Where the stop occured.</li>
     <li><code align = "center">predict_subject_race (457, 40, 'E2' )</code></li>
-    <li><p align = "center">Returns a Pandas DataFrame of race probability predictions</br><img align="center" src="https://i.imgur.com/qgQJZAQ.png" alt="Bokeh Plot 1"></li>
+    <li><p >Returns a Pandas DataFrame of race probability predictions</br><img align="center" src="https://i.imgur.com/qgQJZAQ.png" alt="Bokeh Plot 1"></li>
   </ul>
 </p>
