@@ -116,7 +116,7 @@ One Vs. Rest Classifier was chosen because of the multi class scenario. To be ab
 </ul>
 
 <h2 align = "center">Subject Race Prediction</h2>
-<p align = "center">This program takes three paramaters. The Officer ID, the initial call type, and the 'beat' and returns a dataframe with the probability predictions for the subjects race. <a href="">A list of all parameters can be found in the parameter text document</a>. </br>
+<p align = "center">This program takes three paramaters. The Officer ID, the initial call type, and the 'beat' and returns a dataframe with the probability predictions for the subjects race. <a href="https://github.com/bryan-md/Seattle-Terry-Stops/blob/master/PARAMETER%20CODES.txt">A list of all parameters can be found in the parameter text document</a>. </br>
   <ul style="list-style: none;">
     <li><b>Officer ID:</b>the unique id for the officers </li>
     <li><b>Initial Call Type:</b> the type of call that initiated the stop (all stops were limited to officer initiated stops). </li>
